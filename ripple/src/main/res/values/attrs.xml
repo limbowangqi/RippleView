@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <declare-styleable name="RippleView" tools:ignore="ResourceName">
+        <!--  圈的颜色      -->
+        <attr name="ripple_color" format="color" />
+        <!--  移动速度，默认为1      -->
+        <attr name="ripple_speed_multiple" format="float" />
+        <!--  每个圈之间的间隔，不设置默认为当前最大半径的1/2      -->
+        <attr name="ripple_interval_step" format="dimension" />
+        <!--  单个圈的宽度-->
+        <attr name="ripple_stroke_width" format="dimension" />
+        <!--  中心的内部半径，即最小半径      -->
+        <attr name="ripple_radius_center" format="dimension" />
+        <!--  是否展示透明度，距离中心越远，透明度越低      -->
+        <attr name="ripple_alpha" format="boolean" />
+    </declare-styleable>
+</resources>
