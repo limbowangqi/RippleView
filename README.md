@@ -2,8 +2,8 @@
 [![](https://jitpack.io/v/limbowangqi/RippleView.svg)](https://jitpack.io/#limbowangqi/RippleView)
 
 ### 🔥🔥🔥水波纹效果
-### 效果
-
+### 效果预览
+<img src="rippleView.jpg" width="300px"/>
 ### 添加依赖
 ```grovy
 allprojects {
