@@ -1,8 +1,9 @@
 # RippleView
 [![](https://jitpack.io/v/limbowangqi/RippleView.svg)](https://jitpack.io/#limbowangqi/RippleView)
 
-### 🔥🔥🔥水波纹效果
-### 效果
+### 🔥🔥🔥水波纹效果 [源码分析](https://www.yuque.com/limbo-mwwms/xi0rm8/utipyv00yq5bqfup?singleDoc#)
+### 效果预览
+<img src="rippleView.jpg" width="300px"/>
 
 ### 添加依赖
 ```grovy
